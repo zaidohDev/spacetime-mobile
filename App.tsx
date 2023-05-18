@@ -9,7 +9,7 @@ export default function App() {
           🐱CatTom
         </Text>
         <Text className="text-center text-sm text-blue-100">
-          App development by Daniel 📱
+          App developed by Daniel 📱
         </Text>
         <StatusBar style="light" translucent />
       </View>
